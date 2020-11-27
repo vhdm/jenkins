@@ -1,3 +1,3 @@
 import os
-os.mkdir("/opt/test-jenkins",exist_ok=True)
+os.mkdir("/opt/test-jenkins")
 print("Folder Created Successfully in '/opt/test-jenkins'")
